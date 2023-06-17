@@ -1,0 +1,24 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.top{
+	background-color: #00008B;
+	color: #fff;
+}
+.judul{
+	font-size: 12pt;
+    padding: 10px;
+    font-weight: bold;
+}
+.link{
+	margin-top: 20px;
+}
+
+/* style for select option */
+select{
+	width: 100%;
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
